@@ -11,7 +11,7 @@ end
   end
 end
 
-get '/name' do
+get '/favorite-song' do
     "My name is __"
   end
 end
